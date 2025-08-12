@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python library,Powerbi**
 
-- 👨‍💻 All of my projects are available at [http://127.0.0.1:5501/index.html](http://127.0.0.1:5501/index.html)
+- 👨‍💻 All of my projects are available at [Badal Singh Portfolio](https://badal-portfolio-64.vercel.app/)
 
 - 💬 Ask me about **SQL, Python, and dashboard design in Power BI/Tableau**
 
